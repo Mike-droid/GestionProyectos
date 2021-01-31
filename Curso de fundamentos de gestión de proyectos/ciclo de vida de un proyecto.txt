@@ -1,0 +1,14 @@
+CICLOS DE VIDA DEL PROYECTO - ETAPAS
+
+1.- INICIACIÓN:Estudiar la factibilidad del proyecto y estimar los tiempos para llevarlo a cabo en su totalidad.
+Implica 2 documentos: Documento del caso(Justifica la necesidad del Proyecto y beneficios del resultado) y Estudio de Factibilidad(Evaluar metas, crono-gramas y costos).
+
+2.- PLANIFICACIÓN:Pasos a seguir(Plan de seguimiento y control*), quienes ejecutaran, tiempos correspondientes y costo de cada actividad.
+
+3.- EJECUCIÓN:Poner en marcha etapa 1 y 2.
+
+4.- SEGUIMIENTO Y CONTROL:Supervisar el progreso con el propósito de corregir lo necesario en el camino.
+
+5.- CIERRE:Entrega de resultados a cliente y comunicado a todas las partes interesadas.
+
+***Plan de Seguimiento y control: **Implica determinar quienes darán el seguimiento, control al proyecto y frecuencia en la que se van a reportar según actividad y tipo de proyecto.

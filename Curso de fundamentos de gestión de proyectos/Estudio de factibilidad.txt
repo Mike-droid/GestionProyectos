@@ -1,0 +1,7 @@
+El propósito de este documento, es medir la probabilidad de éxito o fracaso de nuestro proyecto y según los resultados, tomaremos la decisión si seguir adelante o no.
+
+Los objetivos de este son:
+
+• Verificación de un mercado existente o que haya una necesidad no satisfecha.
+• Que estén disponibles los recursos humanos, técnicos, financieros y administrativos.
+• Corroboración de las ventajas desde el punto de vista financiero, económico, social o ambiental de asignar recursos hacia la producción de un bien o la prestación de un servicio.

@@ -1,0 +1,13 @@
+Al Documento de Caso también se le conoce como Caso de Negocio.
+Paso 1 Definir el problema
+Paso 2 Soluciones Recomendadas
+Paso 3 Solución definitiva
+Paso 4 Descripción del Plan de Implementación
+
+- Inicio: Describe a detalle el proyecto y quién conformará tu equipo de trabajo.
+
+- Planificación: Explica cuál será tu proceso de planificación para asegurar cada una de sus fases y hacer cada una de sus actividades y tareas de manera ordenada.
+
+- Ejecución: Indica las actividades que necesitarás llevar a cabo para obtener el resultado deseado.
+
+- Cierre: Identifica cuáles serán los pasos para cerrar el proyecto y entregar sus productos.
